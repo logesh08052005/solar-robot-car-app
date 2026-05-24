@@ -1,0 +1,6 @@
+{
+  "name": "Rover Pilot",
+  "description": "ESP8266 Robot Monitor & Control Dashboard with MPU6050 navigation and offline telemetry logging",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
